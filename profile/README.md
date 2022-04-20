@@ -10,7 +10,7 @@
 <h2 align="center">Our Socials</h2>
 <div align="center">
   <h3 align="center">Our Discord Server</h3>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="https://discord.gg/3twndDweaY">
     <img width="400" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/discord.png" />
   </a>
 </div>
