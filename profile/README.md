@@ -4,6 +4,8 @@
   <img width="150" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/toilet.png" />
   <p>
     ToiletCoders is a group of young coders located at the <strong>University of Applied Sciences Ulm</strong> in Germany, studying computer science since 2021.
+    <br>
+    <a href="https://github.com/bircni">Maybe you want to gift us a coffee?</a>
   </p>
 </div>
 <div>
@@ -60,5 +62,12 @@
   <h3 align="center">Our Website</h3>
   <a href="http://www.toiletcoders.xyz">
     <img src="https://github.com/ToiletCoders/.github/blob/main/profile/images/toiletcoders.png" />
+  </a>
+</div>
+
+<div align="center">
+  <h3 align="center">Sponsor us</h3>
+  <a href="https://www.buymeacoffee.com/toiletcoders">
+    <img src="https://github.com/ToiletCoders/.github/blob/main/profile/images/buymeacoffee.png" />
   </a>
 </div>
