@@ -27,6 +27,11 @@
   <a href="https://github.com/ToiletCoders/THU-Summary-SS22">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToiletCoders&repo=THU-Summary-SS22&layout=compact&theme=dark" />
   </a>
+  </div>
+<div align="center">
+  <a href="https://github.com/ToiletCoders/toiletcoders.xyz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToiletCoders&repo=toiletcoders.xyz&layout=compact&theme=dark" />
+  </a>
 </div>
 <h2 align="center">Our Socials</h2>
 <div align="center">
