@@ -15,14 +15,14 @@
   <h3>Nicolas</h3>
   <p>Discord: <strong>Sherm#7127</strong></p>
   
-   [![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bircni)](https://github.com/bircni/github-readme-stats)
+   [![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bircni&layout=compact&theme=dark)](https://github.com/bircni/github-readme-stats)
   
   <hr />
   
   <h3>Nether</h3>
   <p>Discord: <strong>nether_png#0201</strong></p>
 
-  [![Nether's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitNether)](https://github.com/GitNether/github-readme-stats)
+  [![Nether's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitNether&layout=compact&theme=dark)](https://github.com/GitNether/github-readme-stats)
 
 </div>
 <div align="center">
