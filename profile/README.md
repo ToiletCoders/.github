@@ -1,9 +1,27 @@
 <h1 align="center">Welcome to ToiletCoders!</h1>
 <div align="center">
-  <img width="200" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/toilet.png" />
+  <h2>About ToiletCoders</h2>
+  <img width="150" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/toilet.png" />
+  <p>
+    ToiletCoders is a group of young coders located at the <strong>University of Applied Sciences Ulm</strong>, studying computer science since 2021.
+  </p>
+</div>
+<div>
+  <div align="center">
+    <h2>Current Members</h2>
+    <h3>Owners</h3>
+    <p>
+      <a href="https://github.com/bircni">Nicolas</a>
+      <br>
+      <a href="https://github.com/GitNether">Nether</a>
+    </p>
+    <hr>
+    <h3>Members</h3>
+    <p>
+      -
+    </p>
   </div>
 </div>
-<hr />
 <h2 align="center">Our Repositories</h2>
 <div align="center">
   <a href="https://github.com/ToiletCoders/THU-Summary-SS22">
@@ -15,14 +33,14 @@
   <h3>Nicolas</h3>
   <p>Discord: <strong>Sherm#7127</strong></p>
   
-   [![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bircni&layout=compact&theme=dark)](https://github.com/bircni)
+   [![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bircni&layout=compact&theme=dark)](https://github.com/bircni/github-readme-stats)
   
   <hr />
   
   <h3>Nether</h3>
   <p>Discord: <strong>nether_png#0201</strong></p>
 
-  [![Nether's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitNether&layout=compact&theme=dark)](https://github.com/GitNether)
+  [![Nether's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitNether&layout=compact&theme=dark)](https://github.com/GitNether/github-readme-stats)
 
 </div>
 
