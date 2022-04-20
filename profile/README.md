@@ -40,14 +40,22 @@
   <h3>Nether</h3>
   <p>Discord: <strong>nether_png#0201</strong></p>
 
-  [![Nether's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitNether&layout=compact&theme=dark)](https://github.com/GitNether/github-readme-stats)
+[![Nether's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitNether&layout=compact&theme=dark)](https://github.com/GitNether/github-readme-stats)
 
 </div>
 
 <hr />
+
 <div align="center">
   <h3 align="center">Our Discord Server</h3>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img width="400" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/discord.png" />
+  </a>
+</div>
+
+<div align="center">
+  <h3 align="center">Our Website</h3>
+  <a href="http://www.toiletcoders.xyz">
+    <img src="https://github.com/ToiletCoders/.github/blob/main/profile/images/toiletcoders.png" />
   </a>
 </div>
