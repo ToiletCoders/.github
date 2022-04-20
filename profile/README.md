@@ -25,6 +25,8 @@
   [![Nether's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitNether&layout=compact&theme=dark)](https://github.com/GitNether/github-readme-stats)
 
 </div>
+
+<hr />
 <div align="center">
   <h3 align="center">Our Discord Server</h3>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
