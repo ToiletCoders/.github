@@ -4,8 +4,8 @@
   <img width="150" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/toilet.png" />
   <p>
     ToiletCoders is a group of young coders located at the <strong>University of Applied Sciences Ulm</strong> in Germany, studying computer science since 2021.
-    <br>
-    <a href="https://github.com/bircni">Maybe you want to gift us a coffee?</a>
+    <br><br>
+    <a href="https://github.com/bircni">Maybe you want to buy us a coffee (or a slice of pizza)?</a>
   </p>
 </div>
 <div>
