@@ -5,7 +5,7 @@
   <p>
     ToiletCoders is a group of young coders located at the <strong>University of Applied Sciences Ulm</strong> in Germany, studying computer science since 2021.
     <br><br>
-    <a href="https://www.buymeacoffee.com/toiletcoders" target="_blank">Maybe you want to buy us a coffee (or a slice of pizza)?</a>
+    <a href="https://www.buymeacoffee.com/toiletcoders">Maybe you want to buy us a coffee (or a slice of pizza)?</a>
   </p>
 </div>
 <div>
@@ -53,7 +53,7 @@
 
 <div align="center">
   <h3 align="center">Our Discord Server</h3>
-  <a href="https://discord.gg/pxmaGRQqzF" target="_blank">
+  <a href="https://discord.gg/pxmaGRQqzF">
     <img width="400" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/discord.png" />
   </a>
 </div>
@@ -62,7 +62,7 @@
 
 <div align="center">
   <h3 align="center">Our Website</h3>
-  <a href="http://www.toiletcoders.xyz" target="_blank">
+  <a href="http://www.toiletcoders.xyz">
     <img width="400" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/laptop_background.jpg" />
   </a>
 </div>
@@ -71,7 +71,7 @@
 
 <div align="center">
   <h3 align="center">Sponsor us</h3>
-  <a href="https://www.buymeacoffee.com/toiletcoders" target="_blank">
+  <a href="https://www.buymeacoffee.com/toiletcoders">
     <img width="400" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/buymeacoffee-button.gif" />
   </a>
 </div>
