@@ -72,6 +72,6 @@
 <div align="center">
   <h3 align="center">Sponsor us</h3>
   <a href="https://www.buymeacoffee.com/toiletcoders">
-    <img width="400" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/buymeacoffee_button.gif" />
+    <img width="300" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/buymeacoffee_button.gif" />
   </a>
 </div>
