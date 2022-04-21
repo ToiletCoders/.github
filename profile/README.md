@@ -61,7 +61,7 @@
 <div align="center">
   <h3 align="center">Our Website</h3>
   <a href="http://www.toiletcoders.xyz">
-    <img src="https://github.com/ToiletCoders/.github/blob/main/profile/images/toiletcoders.png" />
+    <img width="400" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/laptop_background.jpg" />
   </a>
 </div>
 
