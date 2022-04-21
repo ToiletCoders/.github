@@ -10,17 +10,11 @@
 </div>
 <div>
   <div align="center">
-    <h2>Current Members</h2>
-    <h3>Owners</h3>
+    <h2>Owners</h2>
     <p>
-      <a href="https://github.com/bircni">Nicolas</a>
+      <a href="https://github.com/bircni">Nicolas </a> (Discord: Sherm#7127)
       <br>
-      <a href="https://github.com/GitNether">Nether</a>
-    </p>
-    <hr>
-    <h3>Members</h3>
-    <p>
-      -
+      <a href="https://github.com/GitNether">Nether</a> (Discord: nether_png#0201)
     </p>
   </div>
 </div>
@@ -33,21 +27,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToiletCoders&repo=ToiletCoders.github.io&layout=compact&theme=dark" />
   </a>
 </div>
-<h2 align="center">Our Socials</h2>
-<div align="center">
-  <h3>Nicolas</h3>
-  <p>Discord: <strong>Sherm#7127</strong></p>
-  
-   [![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bircni&layout=compact&theme=dark)](https://github.com/bircni/github-readme-stats)
-  
-  <hr />
-  
-  <h3>Nether</h3>
-  <p>Discord: <strong>nether_png#0201</strong></p>
 
-[![Nether's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitNether&layout=compact&theme=dark)](https://github.com/GitNether/github-readme-stats)
-
-</div>
 
 <hr />
 
@@ -72,6 +52,6 @@
 <div align="center">
   <h3 align="center">Sponsor us</h3>
   <a href="https://www.buymeacoffee.com/toiletcoders">
-    <img width="300" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/buymeacoffee_button.gif" />
+    <img width="100" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/buymeacoffee_button.gif" />
   </a>
 </div>
