@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center">Our Website</hw>
+  <h2 align="center">Our Website</h2>
   <a href="https://www.toiletcoders.xyz">
     <img width="400" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/laptop_background.jpg" />
   </a>
