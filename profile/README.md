@@ -4,7 +4,6 @@
   <img width="150" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/toilet.png" />
   <p>
     ToiletCoders is a group of young coders located at the <strong>University of Applied Sciences Ulm</strong> in Germany, studying computer science since 2021.
-    <br>
   </p>
 </div>
 <div>
@@ -26,7 +25,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToiletCoders&repo=ToiletCoders.github.io&layout=compact&theme=dark" />
   </a>
 </div>
-
 
 <hr />
 
