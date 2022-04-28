@@ -9,13 +9,25 @@
 <div>
   <div align="center">
     <h2>Owners</h2>
-    <p>
-      <a href="https://github.com/bircni">Nicolas </a> (Discord: Sherm#7127)
-      <br>
-      <a href="https://github.com/GitNether">Tim</a> (Discord: nether_png#0201)
-      <br>
-      <a href="https://github.com/fabus1184">Fabian</a> (Discord: fabus1184#3255)
-    </p>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"><a href="https://github.com/bircni">Nicolas </a></th>
+    <th class="tg-0pky"><a href="https://github.com/GitNether">Tim</a></th>
+    <th class="tg-0pky"><a href="https://github.com/fabus1184">Fabian</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Discord</td>
+    <td class="tg-0pky">R3mazz#7127</td>
+    <td class="tg-0pky">nether_png#0201</td>
+    <td class="tg-0pky">fabus1184#3255</td>
+  </tr>
+</tbody>
+</table>
   </div>
 </div>
 <h2 align="center">Our Repositories</h2>
