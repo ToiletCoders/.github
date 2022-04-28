@@ -12,7 +12,9 @@
     <p>
       <a href="https://github.com/bircni">Nicolas </a> (Discord: Sherm#7127)
       <br>
-      <a href="https://github.com/GitNether">Nether</a> (Discord: nether_png#0201)
+      <a href="https://github.com/GitNether">Tim</a> (Discord: nether_png#0201)
+      <br>
+      <a href="https://github.com/fabus1184">Fabian</a> (Discord: fabus1184#3255)
     </p>
   </div>
 </div>
