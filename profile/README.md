@@ -35,8 +35,8 @@
   <a href="https://github.com/ToiletCoders/THU-Summary-SS22">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToiletCoders&repo=THU-Summary-SS22&layout=compact&theme=cobalt&hide_border=true" />
   </a>
-  <a href="https://github.com/ToiletCoders/ToiletCoders.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToiletCoders&repo=ToiletCoders.github.io&layout=compact&theme=cobalt&hide_border=true" />
+  <a href="https://github.com/ToiletCoders/WeatherGetter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToiletCoders&repo=WeatherGetter&layout=compact&theme=cobalt&hide_border=true" />
   </a>
 </div>
 
