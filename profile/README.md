@@ -23,7 +23,7 @@
   <tr>
     <td class="tg-0pky">Discord</td>
     <td class="tg-0pky">R3mazz#7127</td>
-    <td class="tg-0pky">nether_png#0201</td>
+    <td class="tg-0pky">nether_png#5081</td>
     <td class="tg-0pky">fabus1184#3255</td>
   </tr>
 </tbody>
