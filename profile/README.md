@@ -43,14 +43,14 @@
 <div align="center">
   <h2 align="center">Our Discord Server</h2>
   <a href="https://discord.gg/pxmaGRQqzF">
-    <img width="400" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/discord.png" />
+    <img width="200" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/discord.png" />
   </a>
 </div>
 
 <div align="center">
   <h2 align="center">Our Website</h2>
   <a href="https://www.toiletcoders.xyz">
-    <img width="400" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/laptop_background.jpg" />
+    <img width="200" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/laptop_background.jpg" />
   </a>
 </div>
 
