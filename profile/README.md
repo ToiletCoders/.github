@@ -8,6 +8,7 @@
 </div>
 
 </div>
+<!--
 <h2 align="center">Our Repositories</h2>
 <div align="center">
   
@@ -15,7 +16,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToiletCoders&repo=WeatherGetter&layout=compact&theme=cobalt&hide_border=true" />
   </a>
 </div>
-
+-->
 <div align="center">
   <h2 align="center">Our Discord Server</h2>
   <a href="https://discord.gg/pxmaGRQqzF">
