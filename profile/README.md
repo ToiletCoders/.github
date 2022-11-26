@@ -23,13 +23,14 @@
     <img width="200" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/discord.png" />
   </a>
 </div>
-
+<!--
 <div align="center">
   <h2 align="center">Our Website</h2>
   <a href="https://www.toiletcoders.xyz">
     <img width="200" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/laptop_background.gif" />
   </a>
 </div>
+-->
 
 <div align="center">
   <h2 align="center">Sponsor us</h2>
