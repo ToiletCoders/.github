@@ -30,11 +30,12 @@
     <img width="200" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/laptop_background.gif" />
   </a>
 </div>
--->
+
 
 <div align="center">
   <h2 align="center">Sponsor us</h2>
   <a href="https://www.buymeacoffee.com/toiletcoders">
     <img width="100" src="https://github.com/ToiletCoders/.github/blob/main/profile/images/buymeacoffee_button.gif" />
   </a>
+  -->
 </div>
